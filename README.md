@@ -1,0 +1,1 @@
+# django_simple_project_template
